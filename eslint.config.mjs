@@ -22,7 +22,7 @@ export default [
                     arrowParens: 'always',
                     semi: true,
                     tabWidth: 4,
-                    endOfLine: 'off',
+                    endOfLine: 'lf',
                     useTabs: false,
                     singleQuote: true,
                     jsxSingleQuote: true,
