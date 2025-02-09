@@ -1,3 +1,3 @@
-import { PORT } from './config/environments'
+import { PORT } from './config/environments';
 
-console.log(PORT)
+console.log(PORT);
